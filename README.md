@@ -10,6 +10,9 @@ With the development of e-commerce sites, collecting reviews from user comments 
 ### Dataset
 We use the review data set on Foody page with about 30,000 labeled templates. Including 15,000 positive samples and 15,000 negative samples. Source: https://streetcodevn.com/blog/dataset
 
+### RNN architecture
+![alt text](https://github.com/andyngo95/SA_Positive_Negative_Comments/blob/master/Images/architecture.png)
+
 ### Result
 
 | Model                        | F1-Score      |
